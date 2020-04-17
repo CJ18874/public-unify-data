@@ -1,7 +1,10 @@
 {
-  "name": "my-app",
+  "name": "public-unify-data",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "engines": {
+    "node": "12.13.0"
+  }
   "dependencies": {
     "@material-ui/core": "^4.9.10",
     "@material-ui/icons": "^4.9.1",
